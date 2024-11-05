@@ -1,0 +1,16 @@
+{
+"name": "mvc_project/mvc_project",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "MvcProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maiilaa",
+            "email": "zirarimaila8@gmail.com"
+        }
+    ],
+    "require": {}
+}
