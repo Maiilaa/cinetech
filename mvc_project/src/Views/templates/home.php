@@ -4,13 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $title; ?></title>
-    <link rel="stylesheet" href="/public/style.css">
+    <link rel="stylesheet" href="/mvc_project/public/style.css">
 </head>
 <body>
-<//h1><//?php echo $title; ?><//h1>
-    <p>Bienvenue sur votre première page MVC !</p>
+    <p>Bienvenue Mzé</p>
     <img src="/public/images/blacklist.jpg">
-    <p><a href="/index.php?action=register">S'inscrire</a></p>
+    
 
 </body>
 </html>
