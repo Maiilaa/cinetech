@@ -8,18 +8,9 @@ use MvcProject\Controllers\HomeController; // Utiliser le bon namespace
 $controller = new HomeController();
 $controller->index();
 
-
-
-
-
-
-
-
-
-require_once __DIR__ . '/src/Controllers/UserController.php';
+/*require_once __DIR__ . '/src/Controllers/UserController.php';*/
 
 use Controllers\UserController;
-
 
 $controller = new UserController();
 $action = $_GET['action'] ?? null;

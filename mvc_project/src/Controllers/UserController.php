@@ -4,7 +4,7 @@ namespace Controllers;
 
 class UserController {
     public function showRegisterForm() {
-        require_once __DIR__ . '/../Views/templates/register.php';
+        /*require_once __DIR__ . '/../Views/templates/register.php';*/
     }
 
     public function register() {
