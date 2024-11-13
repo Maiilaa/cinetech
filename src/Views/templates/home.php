@@ -9,5 +9,6 @@
 <body>
     <h1><?php echo $title; ?></h1>
     <p>Bienvenue sur votre première page MVC !</p>
+    <p>c'est moi</p>
 </body>
 </html>
